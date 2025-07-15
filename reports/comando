@@ -1,0 +1,2 @@
+./testrunner.sh -s "TestUsers" -c "TestUser" ~/Adalid/devops-fundamentals/module4/soapui-tests/REST-Project-2-soapui-project.xml
+./testrunner.sh -r -j -f ~/Adalid/devops-fundamentals/module4/soapui-tests/reports ~/Adalid/devops-fundamentals/module4/soapui-tests/REST-Project-2-soapui-project.xml
