@@ -29,7 +29,7 @@ jobs:
     - name: Run tests
       run: |
         ./SoapUI-5.8.0/bin/testrunner.sh \
-          -s"TestSuite 1" \
+          -s"TestSuite_1" \
           -r -j -f reports \
           ./REST-Project-1-soapui-project.xml
 
